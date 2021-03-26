@@ -41,8 +41,8 @@ Press "Back" which will bring you to the main menu and youre done!
 
 Support this project with some crypto !
 
-BTC - 39MDueVQMqbs62YPrAo2WEeSi6PGAUQcNe
-BCH - qq24stel6fdmql6xuxrakkma4duprw3ctue5dcsx6v
-ETH - 0xdFBD2D9629701BFd7AD40C27F750d52797c680dA
+- BTC - 39MDueVQMqbs62YPrAo2WEeSi6PGAUQcNe
+- BCH - qq24stel6fdmql6xuxrakkma4duprw3ctue5dcsx6v
+- ETH - 0xdFBD2D9629701BFd7AD40C27F750d52797c680dA
 
 
