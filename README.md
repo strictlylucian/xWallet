@@ -39,4 +39,10 @@ Press "Back" which will bring you to the main menu and youre done!
 - https://github.com/hoffstadt and https://github.com/Pcothren for their amazing work on DearPyGui, repo which can be found at https://github.com/hoffstadt/DearPyGui
 - https://github.com/1200wd for the work on https://github.com/1200wd/bitcoinlib which my project heavily relies on !
 
+Support this project with some crypto !
+
+BTC - 39MDueVQMqbs62YPrAo2WEeSi6PGAUQcNe
+BCH - qq24stel6fdmql6xuxrakkma4duprw3ctue5dcsx6v
+ETH - 0xdFBD2D9629701BFd7AD40C27F750d52797c680dA
+
 
