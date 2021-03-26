@@ -24,7 +24,7 @@ xWallet is written completely using Python and uses DearPyGui as the main interf
 
 Choose the desired crypto currency you want to store and press "Create wallet". After the mnemonic is created make sure you also press "Copy mnemonic to clipboard" and save it somewhere where you won't lose it!
 
-Saving your mnemonic guarantees that in a situation where you wallet is lost you can easily recover it using the "Recover wallet" tab.
+Saving your mnemonic guarantees that in a situation where your wallet is lost you can easily recover it using the "Recover wallet" tab.
 
 Press "Back" which will bring you to the main menu and youre done!
 
